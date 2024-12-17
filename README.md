@@ -1,2 +1,2 @@
 ﻿# ProjetJava
-![pdf Alt](pjava.pptx.pdf)
+![pdf Alt](pjava.pdf)
